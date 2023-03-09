@@ -1,0 +1,13 @@
+{
+	 "ipdet": {
+		 "p1": "{{tvar1}}test lkdf {tvar3}",
+		 "zz": "test",
+		 "pp":"{{}}",
+		  "sub": {
+			   "ps1": "{{tvar2}} sample {{test2}} sdf}}",
+			   "ps2": "abc{{testlkx lkf{{test}}",
+			   "ps3": "{{tvar2}} sample {{testsdf}}"
+			   }
+			   }
+			   
+}
